@@ -37,7 +37,6 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/JetMars/fmentor-contact-form)
-- Live Site URL: [Versel](https://fmentor-contact-form.vercel.app)
 
 ### Built with
 
